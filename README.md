@@ -1,6 +1,13 @@
 # animated_ui
 
-A new Flutter application.
+A demo of flutter animation with AnimatedContainers
+
+Enjoy fellas
+
+![Screenshot](Screenshot1.png)
+![Screenshot](Screenshot2.png)
+![Screenshot](Screenshot3.png)
+![Screenshot](Screenshot4.png)
 
 ## Getting Started
 
