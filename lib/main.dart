@@ -14,7 +14,6 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         fontFamily: "Nunito",
-        primarySwatch: Colors.blue,
       ),
       home: MainPage(),
     );
